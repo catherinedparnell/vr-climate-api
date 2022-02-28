@@ -12,7 +12,7 @@
 * ```scenario``` (0, 1, 2) Scenario given by SSP/RCP models in increasing order
 
 **RETURNS** JSON with following attributes:
-* ```precipitation``` in mm (daily average computed by taking yearly average / icelandic average precipitation days)
+* ```precipitation``` in mm (daily average computed by taking yearly average / icelandic average precipitation days per year)
 * ```temperature``` json object with with ```celsius``` and ```fahrenheit``` attributes
 * ```sea_level``` in m
 
@@ -23,6 +23,6 @@
 * ```scenario``` (0, 1, 2) Scenario given by SSP/RCP models in increasing order
 
 **RETURNS** JSON with following attributes:
-* ```precipitation``` in mm (daily average computed by taking yearly average / icelandic average precipitation days)
+* ```precipitation``` in mm (daily average computed by taking yearly average / icelandic average precipitation days per year)
 * ```temperature json``` object with with ```celsius``` and ```fahrenheit``` attributes
 * ```sea_level``` in m
