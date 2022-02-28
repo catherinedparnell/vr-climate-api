@@ -10,3 +10,4 @@ TEMP_PROJECTION = 'data/projected-temperature.csv'
 SEA_LEV_PROJECTION = 'data/projected-sea-level.csv'
 
 YEAR = 'year'
+AVG_PRECIP_DAYS_PER_YEAR = 150
