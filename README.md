@@ -1,5 +1,10 @@
 # vr-climate-api
 
+## Root URL:
+
+```https://vr-climate-api.herokuapp.com```
+
+## Endpoints
 ```/``` Gets data for particular scenario in a given year
 
 **PARAMS** via URL query parameters
