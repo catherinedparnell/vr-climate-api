@@ -11,7 +11,7 @@
 * temperature json object with with 'celsius' and 'fahrenheit' attributes
 * sea_level in m
 
-```/decade``` Gets data for particular scenario in a given year
+```/decade``` Gets data for particular scenario in a given decade
 
 **PARAMS** via URL query parameters
 * year (2020, 2090) Starting year per 10-year decade
