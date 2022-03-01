@@ -30,10 +30,7 @@ def get_data():
 
     res = {
         "precip": PROCESSING.processPrecip(precip),
-        "temperature": {
-            "celsius": temp,
-            "fahrenheit": PROCESSING.processTemp(temp)
-        },
+        "temperature": temp,
         "sea_level": sea_level
     }
     
@@ -64,10 +61,7 @@ def get_data_by_decade():
 
     res = {
         "precip": PROCESSING.processPrecip(precip),
-        "temperature": {
-            "celsius": temp,
-            "fahrenheit": PROCESSING.processTemp(temp)
-        },
+        "temperature": temp, 
         "sea_level": sea_level
     }
     
